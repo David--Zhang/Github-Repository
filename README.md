@@ -8,15 +8,5 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-See if it can affect master branch.
 
-One more testing on "magic stash". 
-
-This is to test PULL.
-
-To merge a pull request.
-
-See if the master branch change.
-
-Edit on web creating a new branch and starting a pull request.
 
