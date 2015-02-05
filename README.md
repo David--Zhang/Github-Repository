@@ -10,5 +10,7 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 See if it can affect master branch.
 
-One more testing on "magic stash".
+One more testing on "magic stash". 
+
+This is to test PULL.
 
