@@ -14,4 +14,6 @@ One more testing on "magic stash".
 
 This is to test PULL.
 
+To merge a pull request.
+
 
