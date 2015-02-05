@@ -12,5 +12,7 @@ Just added this line to create a new branch.
 
 Created another new branch.
 
+Just try to merge on Mac.
+
 
 
