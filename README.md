@@ -16,7 +16,7 @@ Just try to merge on Mac.
 
 Use merge view.
 
-Anohter commit.
+
 
 
 
