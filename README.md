@@ -13,5 +13,5 @@ See if it can affect master branch.
 One more testing on "magic stash". 
 
 This is to test PULL.
-This is PULL test #2.
+
 
