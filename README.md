@@ -18,5 +18,5 @@ To merge a pull request.
 
 See if the master branch change.
 
-Edit on web.
+Edit on web a new branch.
 
