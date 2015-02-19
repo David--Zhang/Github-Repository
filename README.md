@@ -16,6 +16,8 @@ Just try to merge on Mac.
 
 Use merge view.
 
+Check out new folder.
+
 
 
 
